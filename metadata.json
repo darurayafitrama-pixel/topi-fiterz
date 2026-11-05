@@ -1,0 +1,6 @@
+{
+  "name": "Topi Fiterz",
+  "description": "Website penyewaan dan pemesanan headwear serta topi outdoor, bucket hat, snapback, dan kupluk berkualitas dengan tarif harian transparan dan pemesanan via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
